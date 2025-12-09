@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**arman427/arman427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Arman, a beginner front-end developer.
 
-Here are some ideas to get you started:
+I enjoy designing all kinds of landing pages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My tech stack: HTML, CSS (SCSS), JavaScript (React), Tailwind CSS.
+
+I have several projects, my favorite is an react online store.
+
+I hate coffee, shawarma, and tomatoes.
+
+Hobbies: anime, movies.
+
+I don't have a favorite anime.
+
+I love to learn and develop.
